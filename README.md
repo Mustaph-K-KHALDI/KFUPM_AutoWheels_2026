@@ -9,9 +9,9 @@
 
 ## 👋 Overview
 
-Welcome to our Stage 1 submission for the **KFUPM Self-Driving Challenge**!
+Welcome to our Stage 1 submission for the **2026 ACC Self-Driving Car Student Competition**!
 
-As students from **King Fahd University of Petroleum and Minerals (KFUPM)**, we’ve built a complete autonomous vehicle simulation using the **QCar platform** in a realistic urban environment. Our focus was to combine strong engineering principles with real-time control, computer vision, and system integration.This solution meets mostly all the evaluation criteria.
+As students from **King Fahd University of Petroleum and Minerals (KFUPM)**, we’ve built a complete autonomous vehicle simulation using the **QCar platform** in a realistic urban environment. Our focus was to combine strong engineering principles with real-time control, computer vision, and system integration. This solution meets mostly all the evaluation criteria.
 
 This repository combines **intelligent object detection**, **dynamic vehicle control**, and a **custom competition environment** in Quanser's QLabs.
 
@@ -39,7 +39,7 @@ This repository combines **intelligent object detection**, **dynamic vehicle con
 - ✅ **Stop signs triggered correct pauses**, then resumed autonomously  
 - ✅ **System remained stable** throughout full trajectory duration
 
-Ps: Since we are using Python and are restricted from using the QVL library, we were unable to modify the LED strip to display different colors. However, we plan to continue working on this functionality in the futur.
+**Ps**: Since we are using Python and are restricted from using the QVL library, we were unable to modify the LED strip to display different colors. However, we plan to continue working on this functionality in the futur.
 
 
 ---
