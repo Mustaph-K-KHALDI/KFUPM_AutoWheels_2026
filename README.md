@@ -1,5 +1,5 @@
 # KFUPM_AutoWheels_2026
-# [Youtube link for our Competition Submission – Stage 1]([https://youtu.be/H7bgU0j2-UE](https://youtu.be/MSo7WCOHxI8))
+# [Youtube link for our Competition Submission – Stage 1] (https://youtu.be/MSo7WCOHxI8)
 
 ![Simulation Snapshot](https://github.com/Mustaph-K-KHALDI/KFUPM_AutoWheels_2026/blob/main/KFUPM-AutoWheels.png)
 
