@@ -1,0 +1,2 @@
+torch                    2.7.0+cu118
+ultralights              8.3.127
